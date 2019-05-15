@@ -1,3 +1,0 @@
-
-ALTA = "ALTA"
-BAJA = "BAJA"
